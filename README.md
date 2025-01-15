@@ -1,8 +1,10 @@
 # LLM-based Response Generation for Korean Adolescents A Study Using NAVER Knowledge-iN Q&A Dataset with RAG
 
-**논문 수정중**
+**논문 수정중** 
 
-WE DO NOT OWN ANY OF THIS DATA. 
+This is an adolescent Q&A dataset in Korean, with questions and answers scraped from the NAVER Knowledge iN platform.
+All answers are from "여성가족부 한국청소년상담복지개발원 청소년사이버상담센터".
+We do not own any of the data included in this dataset.
 
 ## Data description
 
@@ -11,7 +13,6 @@ WE DO NOT OWN ANY OF THIS DATA.
 2. ..._ko.xlsx
 
 ### Prompt files
-
 1. ...
 2. ...
 3. ...
