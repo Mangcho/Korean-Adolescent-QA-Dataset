@@ -6,11 +6,11 @@ This is an adolescent Q&A dataset in Korean, with questions and answers scraped 
 All answers are from "여성가족부 한국청소년상담복지개발원 청소년사이버상담센터".
 We do not own any of the data included in this dataset.
 
-## Data description
-
 ### Data files
-1. ..._en.xlsx
-2. ..._ko.xlsx
+1. Korean-Adolescent-QA-Dataset-en.xlsx **(NOT UPLOADED)**
+2. Korean-Adolescent-QA-Dataset-ko.xlsx
+
+## Data description
 
 ### Prompt files
 1. ...
