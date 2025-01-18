@@ -7,17 +7,19 @@ All answers are from "여성가족부 한국청소년상담복지개발원 청�
 We do not own any of the data included in this dataset.
 
 ### Data files
-1. Korean-Adolescent-QA-Dataset-en.xlsx **(NOT UPLOADED)**
-2. Korean-Adolescent-QA-Dataset-ko.xlsx
+Korean-Adolescent-QA-Dataset-ko.xlsx
 
 ## Data description
+1. 
+
 
 ### Prompt files
-1. ...
-2. ...
-3. ...
-4. ...
+1. Relevance 
+2. Empathy
+3. Comprehensibility
+4. Practicality
 
+Each prompt has two files: one in Korean and one in English.
 
 ## Reference
 ```
