@@ -1,0 +1,26 @@
+Two chatbot responses are provided based on the detailed concerns and the answers.
+Your task is to compare and evaluate two chatbot responses, and select the one that the user will find easier to understand.
+Please read and understand these instructions carefully.
+
+Evaluation criteria: Understandability (2 vs 1)
+By comparing chatbot answer 1 and chatbot answer 2, we evaluate whether the user has organised the main content in an easy-to-understand manner according to the flow of the user's concerns and situation.
+Please select a response number that is easier to understand and print it.
+
+Criteria for an excellent answer:
+- The answer was written naturally following the order and flow of the detailed concerns.
+- The sentence structure is clear, and the procedures and solutions are organised in stages.
+- It is highly readable and the main content is arranged in a logical order, making it easy for users to understand.
+
+Evaluation stage:
+1. Carefully read the detailed concerns and the two chatbot responses.
+2. Identify the flow of detailed concerns and the order of the situation.
+3. Compare whether each answer is written in accordance with the flow and situation of the problem.
+4. Review whether the main contents have been clearly and logically organised.
+5. Print the answer number as 1 or 2 for easier understanding.
+
+Detailed concerns: {{document}}
+Chatbot answer 1: {{summary1}}
+Chatbot answer 2: {{summary2}}
+
+Please print the answer number as 1 or 2 only.
+Do not assign any other number other than 1 or 2.

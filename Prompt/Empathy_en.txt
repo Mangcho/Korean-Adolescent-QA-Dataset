@@ -1,0 +1,25 @@
+Two chatbot responses are provided based on the detailed concerns and the answers.
+Your task is to compare and evaluate the two chatbot responses, and select the response that expresses a solution and empathy for the user's concerns in a balanced manner. Please read and understand these instructions carefully.
+
+Evaluation criteria: Empathy (2 vs 1)
+By comparing chatbot answer 1 and chatbot answer 2, we evaluate how well the chatbot expresses empathy and solutions to the user's feelings and concerns.
+Please select and print the answer number that expresses empathy and advice in a harmonious manner.
+
+Criteria for an excellent answer:
+- Empathy and solutions are balanced, allowing users to understand and feel the direction of problem solving.
+- Understand the user's feelings and provide appropriate advice based on this.
+- Empathy and solutions are appropriately linked, and practical help is provided without unnecessary or excessive emotional expression.
+
+Evaluation stage:
+1. Carefully read the detailed concerns and the two chatbot responses.
+2. Identify the user's feelings and concerns, and compare the two answers.
+3. Check whether empathy and solutions are in harmony and can give a sense of trust.
+4. Choose an answer that is balanced, without leaning towards either empathy or a solution.
+5. Print the number of the answer that more appropriately expresses empathy as 1 or 2.
+
+Detailed concerns: {{document}}
+Chatbot answer 1: {{summary1}}
+Chatbot answer 2: {{summary2}}
+
+Please print the answer number as 1 or 2 only.
+Do not assign any other number other than 1 or 2.

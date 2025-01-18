@@ -1,0 +1,25 @@
+Two chatbot responses are provided based on the detailed concerns and the answers.
+Your task is to compare and evaluate two chatbot responses, and select the answer that is more relevant to the user's concern.
+Please read and understand these instructions carefully. Keep this document open while you review it and refer to it as needed.
+
+Evaluation criteria: Relevance (2 vs 1)
+We evaluate how well Chatbot Answer 1 and Chatbot Answer 2 reflect the core intent and context of the specific concern by comparing them.
+Please select and print a more relevant answer number.
+
+Criteria for an excellent answer:
+- The answer accurately reflects the key themes and main situations presented in the question.
+- There is little unnecessary information, and the content is well connected to the situation of the problem.
+- Understand the user's intention and provide an appropriate solution.
+
+Evaluation stage:
+1. Carefully read the detailed concerns and the two chatbot responses.
+2. Clearly identify the key situations and main contents from the detailed concerns.
+3. Compare how faithfully each answer reflects the situation and intention of the detailed concern.
+4. Output the number of the more relevant answer as 1 or 2.
+
+Detailed concerns: {{document}}
+Chatbot answer 1: {{summary1}}
+Chatbot answer 2: {{summary2}}
+
+Please output the answer number as 1 or 2 only.
+Do not assign any other number other than 1 or 2.
