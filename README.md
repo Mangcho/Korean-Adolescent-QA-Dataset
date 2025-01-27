@@ -1,6 +1,7 @@
 # LLM-based Response Generation for Korean Adolescents A Study Using NAVER Knowledge-iN Q&A Dataset with RAG
 
-**논문 수정중** 
+> [!CAUTION]
+> This work has not been published yet.
 
 This is an adolescent Q&A dataset in Korean, with questions and answers scraped from the NAVER Knowledge iN platform.
 All answers are from "여성가족부 한국청소년상담복지개발원 청소년사이버상담센터".
@@ -43,5 +44,4 @@ Each prompt has two files: one in Korean and one in English.
   journal = {Healthcare Informatics Research},
   year = {2025}
 }
-
 ```
