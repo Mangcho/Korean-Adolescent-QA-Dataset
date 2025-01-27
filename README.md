@@ -10,8 +10,22 @@ We do not own any of the data included in this dataset.
 Korean-Adolescent-QA-Dataset-ko.xlsx
 
 ### Data description
-1. 
-
+1. **Title**  
+   - The title of the entire question.
+2. **Question**  
+   - The actual question. Some escape sequences, such as `\n\n\n`, have been removed.
+3. **Answer**  
+   - The answer provided by the "여성가족부 한국청소년상담복지개발원 청소년사이버상담센터," which responded to the question.
+4. **Year**  
+   - The year the question was posted.
+5. **Emotion**  
+   - The emotion(s) classified by an algorithm based on the question. Multiple emotions may be assigned.
+6. **Emotional cause**  
+   - The reason why the algorithm classified the question with these emotions.
+7. **General cause**  
+   - The general cause classified by the algorithm.
+8. **Detailed cause**  
+   - A more specific cause derived from the general cause.
 
 ### Prompt files
 1. Relevance 
@@ -24,9 +38,10 @@ Each prompt has two files: one in Korean and one in English.
 ## Reference
 ```
 @article{Junseo2025LLM,
-  title={LLM-based Response Generation for Korean Adolescents A Study Using NAVER Knowledge-iN Q&A Dataset with RAG},
-  author={Junseo Kim, Seok Jun Kim, Junseok Ahn, Suehyun Lee},
-  journal={Healthc Inform Res},
-  year={2025}
+  title = {LLM-based Response Generation for Korean Adolescents: A Study Using NAVER Knowledge-iN Q&A Dataset with RAG},
+  author = {Junseo Kim and {Seok Jun} Kim and Junseok Ahn and Suehyun Lee},
+  journal = {Healthcare Informatics Research},
+  year = {2025}
 }
+
 ```
